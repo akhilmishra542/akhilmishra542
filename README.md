@@ -1,5 +1,5 @@
 # 💫 About Me:I am a 4th year b.tech student
-i am a 4th year b.tech student
+
 
 
 ## 🌐 Socials:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akhil-mishra-064860312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
